@@ -1,0 +1,61 @@
+body {
+    background:#0d565845;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
+
+ul {
+    list-style: none;
+    font-size: 20px;
+    display: flex;
+    align-content: center;
+    padding: 0px 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: palevioletred;
+    font-size: 25px;
+}
+
+li {
+    padding: 5px 5px;
+}
+
+div.page-wrap {
+	padding:20px 20px;
+
+}
+
+form {
+    padding-bottom: 20px;
+}
+
+input {
+    font-size: 15px;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+textarea {
+    margin: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button.btn.btn-primary {
+    background: none;
+}
+
+
+h3 {
+    font-family: 'Seaweed Script', cursive;
+    font-size: 2em;
+}
